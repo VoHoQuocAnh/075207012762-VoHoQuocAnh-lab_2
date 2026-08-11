@@ -1,0 +1,20 @@
+29B-123.45|Nguyen Van An|Ha Noi|Sai Gon|45
+51F-678.90|Tran Thi Binh|Sai Gon|Da Lat|29
+43A-111.22|Le Van Cuong|Da Nang|Hue|50
+29B-123.45|Pham Thi Dung|Ha Noi|Hai Phong|28
+30G-333.44|Hoang Van Em|Vinh|Ha Noi|35
+77H-555.66|Huynh Thi Phuong|Quy Nhon|Nha Trang|24
+51F-222.11|Phan Van Giang|Sai Gon|Can Tho|40
+92K-444.33|Vu Thi Hoa|Da Nang|Hoi An|20
+61C-077.88|Vo Van Khanh|Bien Hoa|Vung Tau|32
+36B-101.02|Dang Thi Lan|Thanh Hoa|Ha Noi|48
+15A-202.03|Bui Van Minh|Hai Phong|Quang Ninh|27
+43A-303.04|Ngo Thi Nga|Hue|Da Nang|38
+29B-404.05|Duong Van Phuc|Ha Noi|Ninh Binh|22
+50E-505.06|Ly Thi Quyen|Sai Gon|My Tho|31
+81B-606.07|Nguyen Van Son|Gia Lai|Kon Tum|26
+84C-707.08|Tran Thi Tam|Can Tho|Soc Trang|44
+79D-808.09|Le Van Uy|Nha Trang|Da Lat|19
+60C-909.10|Pham Thi Van|Dong Nai|Binh Duong|36
+93H-010.11|Hoang Van Xuan|Buon Ma Thuot|Pleiku|41
+17A-121.13|Huynh Thi Yen|Nam Dinh|Ha Noi|23

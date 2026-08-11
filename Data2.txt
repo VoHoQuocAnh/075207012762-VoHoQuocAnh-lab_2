@@ -1,0 +1,1000 @@
+06P-674.20|Ngo Quang Uyen|Bien Hoa|Nha Trang|38
+92B-628.23|Hoang Thi Tam|Da Nang|Vung Tau|20
+45Y-438.18|Huynh Duc Mai|My Tho|Sai Gon|28
+81Q-828.62|Bui Thi Quyen|Da Nang|Vung Tau|25
+93F-709.27|Duong Kim Viet|Quy Nhon|Buon Ma Thuot|48
+61G-625.52|Hoang Kim Linh|Sai Gon|Nha Trang|36
+16C-579.81|Le Thi Nam|Da Lat|Da Nang|25
+67U-095.87|Bui Quang Giang|Vinh|Vung Tau|37
+06E-516.25|Vu Quang Em|Vung Tau|Can Tho|42
+99J-582.63|Tran Huu Iem|Can Tho|Nha Trang|34
+55Q-370.66|Hoang Van Phuc|Da Nang|Hai Phong|28
+28A-889.28|Do Duc Tam|Vinh|Da Lat|47
+64D-926.01|Ly Quang Linh|Da Lat|Bien Hoa|34
+72G-668.14|Bui Cong Son|Da Nang|Vinh|40
+56G-268.67|Nguyen Ngoc An|Buon Ma Thuot|Vinh|35
+95S-345.17|Nguyen Kim Em|Bien Hoa|Da Lat|21
+13T-512.57|Pham Minh Mai|My Tho|Buon Ma Thuot|34
+41F-913.38|Vo Duc Son|Buon Ma Thuot|Hue|50
+27Y-743.63|Bui Ngoc Em|Vung Tau|Ha Noi|32
+49F-541.29|Phan Ngoc Khanh|Vinh|Ha Noi|47
+13W-153.25|Tran Kim Giang|Vung Tau|Nha Trang|24
+17O-357.21|Le Cong Quyen|Quy Nhon|Sai Gon|41
+25W-750.98|Vu Minh Khanh|Bien Hoa|Buon Ma Thuot|33
+63F-128.38|Phan Kim Phuc|Sai Gon|Quy Nhon|40
+61F-751.06|Pham Ngoc Binh|Nha Trang|Sai Gon|39
+27Q-445.77|Dang Thanh Tam|Vung Tau|Bien Hoa|27
+83G-870.07|Nguyen Van Phong|Hai Phong|Sai Gon|42
+81M-058.31|Tran Cong Cuong|Vung Tau|Sai Gon|41
+74B-626.35|Tran Minh Giang|Quy Nhon|Vung Tau|36
+30E-206.73|Le Cong Mai|Vung Tau|Vinh|19
+22W-460.54|Nguyen Quang Hoa|Can Tho|Sai Gon|48
+07A-263.72|Bui Ngoc Phuc|Vinh|Bien Hoa|35
+96G-986.98|Ngo Kim Dung|Vung Tau|Hai Phong|26
+69E-152.72|Nguyen Thi Quyen|My Tho|Ha Noi|37
+72U-421.92|Do Duc Phuc|Sai Gon|Ha Noi|43
+45B-179.00|Nguyen Minh Iem|Sai Gon|Nha Trang|16
+04G-795.23|Tran Huu Son|Vinh|Da Nang|30
+38Q-993.71|Le Thi Khanh|Da Nang|Hai Phong|33
+06Y-741.58|Huynh Thi Mai|Da Lat|Vinh|44
+47E-208.90|Pham Thanh Khanh|Da Nang|Can Tho|45
+07C-722.29|Vo Quang Iem|Sai Gon|Da Lat|16
+57S-333.92|Duong Minh Binh|Bien Hoa|Hue|18
+13O-939.20|Ngo Cong Viet|Hai Phong|Can Tho|44
+31S-642.60|Phan Minh Quyen|Sai Gon|Hue|35
+23P-824.94|Ngo Ngoc Dung|Bien Hoa|Da Lat|35
+49G-865.17|Pham Huu Oanh|Vung Tau|Da Nang|48
+95I-626.48|Duong Minh Cuong|Sai Gon|My Tho|28
+17U-632.11|Bui Quang Hoa|My Tho|Bien Hoa|36
+07F-130.66|Dang Duc Nam|Quy Nhon|Bien Hoa|27
+02S-103.33|Bui Ngoc Tam|Quy Nhon|Ha Noi|44
+32Y-962.76|Do Quang Phong|Hue|Quy Nhon|49
+51B-996.81|Huynh Thi Linh|Buon Ma Thuot|My Tho|49
+59O-702.57|Le Thanh Dung|Da Lat|Nha Trang|41
+79P-493.88|Ly Ngoc Khanh|Da Lat|Hue|49
+51B-285.82|Ngo Thi Mai|My Tho|Bien Hoa|35
+54L-158.71|Duong Kim Phuc|Da Lat|Bien Hoa|46
+22L-358.67|Pham Ngoc Phong|Buon Ma Thuot|Hai Phong|19
+13F-055.45|Do Thi Quyen|Nha Trang|Quy Nhon|36
+04X-797.51|Vo Cong Viet|Buon Ma Thuot|Bien Hoa|36
+24I-718.15|Hoang Minh Mai|Nha Trang|Sai Gon|40
+78N-240.34|Le Duc Tam|Hai Phong|Vung Tau|19
+56W-780.99|Duong Cong Linh|Sai Gon|Bien Hoa|50
+16E-696.75|Duong Minh Iem|Buon Ma Thuot|Sai Gon|32
+06C-370.96|Hoang Quang Phong|Ha Noi|Buon Ma Thuot|32
+18F-811.55|Tran Quang Hoa|Sai Gon|Ha Noi|44
+61W-716.46|Vo Cong Nam|Ha Noi|Da Lat|43
+25C-048.23|Vo Duc Phuc|Bien Hoa|Da Lat|19
+02W-741.18|Duong Quang Cuong|My Tho|Quy Nhon|28
+14S-447.38|Vu Cong Phong|Can Tho|Nha Trang|47
+03M-723.97|Bui Van Quyen|Hue|Quy Nhon|26
+83T-463.25|Dang Van Giang|Da Lat|My Tho|30
+38I-754.61|Bui Cong Giang|Bien Hoa|Nha Trang|37
+30E-993.35|Huynh Cong Linh|Hue|Da Lat|29
+39V-887.10|Nguyen Quang Tam|Nha Trang|Da Nang|28
+70U-282.72|Dang Minh Linh|Vinh|Can Tho|18
+72S-801.88|Vo Thi Khanh|Nha Trang|Vinh|23
+63F-151.68|Pham Duc Cuong|Sai Gon|Bien Hoa|36
+41N-910.45|Tran Minh Cuong|Sai Gon|Vung Tau|23
+38D-282.89|Ngo Van Giang|Sai Gon|Can Tho|21
+63L-847.49|Do Thi Tam|Vung Tau|My Tho|36
+00D-454.05|Huynh Huu Viet|My Tho|Da Lat|39
+63M-399.91|Hoang Quang Hoa|Hai Phong|Da Nang|39
+70Z-789.68|Do Ngoc Hoa|Da Lat|Da Nang|30
+59H-056.69|Le Thi Dung|Buon Ma Thuot|Vung Tau|50
+14D-451.79|Vu Thanh Phong|Hai Phong|Da Nang|30
+14A-812.86|Nguyen Duc Quyen|Buon Ma Thuot|Nha Trang|21
+28K-975.55|Le Huu Mai|Hue|Quy Nhon|45
+35J-860.91|Vo Thi Cuong|Nha Trang|Quy Nhon|39
+51N-345.41|Ly Huu Linh|Bien Hoa|Ha Noi|25
+35T-337.45|Vo Van Iem|Sai Gon|Bien Hoa|18
+57F-706.32|Bui Cong Cuong|Nha Trang|Vung Tau|22
+82O-728.46|Le Van Uyen|My Tho|Bien Hoa|26
+11S-719.20|Vo Thi Mai|Vinh|Da Lat|19
+38U-965.10|Duong Duc Viet|Sai Gon|Nha Trang|43
+53O-303.19|Le Thi Em|Buon Ma Thuot|Hai Phong|33
+79L-615.21|Bui Thanh Giang|My Tho|Quy Nhon|35
+78O-607.96|Duong Thi Oanh|Hue|Vung Tau|41
+18C-156.19|Huynh Thi Khanh|Da Nang|My Tho|48
+86L-532.32|Do Thanh Em|Da Lat|Buon Ma Thuot|29
+99W-126.67|Huynh Duc Phuc|Hue|Quy Nhon|25
+83N-872.34|Tran Quang Oanh|Sai Gon|Hai Phong|29
+20W-214.11|Phan Duc Dung|Vinh|Hai Phong|48
+42U-944.18|Do Minh Phong|Da Nang|Hue|26
+24Z-687.87|Duong Quang Phuc|My Tho|Vung Tau|42
+55V-156.09|Vo Kim Tam|Hue|Can Tho|32
+84I-318.25|Pham Huu Oanh|Da Lat|Da Nang|49
+14I-760.76|Duong Cong Son|Hai Phong|Sai Gon|42
+12G-960.17|Hoang Thi Giang|My Tho|Da Lat|34
+79X-707.66|Duong Minh An|Bien Hoa|Hue|22
+92E-323.93|Hoang Thanh Dung|Da Nang|Can Tho|31
+36Z-549.75|Duong Van Iem|Buon Ma Thuot|Hai Phong|23
+56G-891.49|Tran Thanh Viet|My Tho|Can Tho|29
+10N-737.45|Nguyen Van Oanh|Quy Nhon|Hai Phong|21
+31D-123.65|Vo Minh An|Hai Phong|Ha Noi|35
+16L-733.32|Duong Quang Nam|Hai Phong|Hue|44
+58O-338.19|Do Minh Dung|Can Tho|Nha Trang|41
+44N-024.06|Ly Kim Giang|Hai Phong|Quy Nhon|31
+31P-397.01|Ngo Cong Giang|Quy Nhon|Sai Gon|42
+13J-630.18|Ly Ngoc Quyen|My Tho|Da Nang|16
+75D-614.84|Tran Thanh Quyen|Ha Noi|Hai Phong|36
+45Y-156.02|Pham Kim Phuc|Hai Phong|Vung Tau|35
+36B-338.34|Vo Huu Oanh|Vung Tau|Nha Trang|40
+93U-843.25|Vo Duc Quyen|Vinh|Quy Nhon|35
+14H-112.01|Le Minh Uyen|My Tho|Quy Nhon|31
+74R-554.98|Huynh Duc Iem|Da Nang|Hai Phong|34
+22M-142.37|Nguyen Van Khanh|Hue|Bien Hoa|17
+04S-891.57|Duong Van Binh|My Tho|Da Nang|42
+41O-576.87|Le Minh Giang|Bien Hoa|Vinh|50
+87R-744.34|Ly Kim Khanh|Can Tho|Vung Tau|45
+33I-864.04|Ly Minh Oanh|Da Nang|Vinh|43
+55O-860.25|Ly Ngoc Quyen|Ha Noi|Sai Gon|46
+01V-237.40|Nguyen Thi Phuc|Nha Trang|My Tho|43
+89M-732.49|Vu Duc Quyen|Hai Phong|My Tho|47
+80E-829.15|Hoang Kim Binh|Ha Noi|Sai Gon|41
+14Y-233.70|Hoang Huu Uyen|Sai Gon|My Tho|40
+08N-765.99|Vo Kim Viet|Buon Ma Thuot|Bien Hoa|18
+30H-512.33|Ly Quang Mai|Vung Tau|Buon Ma Thuot|33
+48C-551.73|Bui Huu Viet|Can Tho|Quy Nhon|24
+29X-438.52|Phan Duc Son|Buon Ma Thuot|Bien Hoa|48
+18E-875.78|Dang Van Phong|Bien Hoa|Quy Nhon|17
+44C-762.88|Phan Quang Em|Quy Nhon|My Tho|31
+47K-232.11|Le Thanh An|Da Nang|Nha Trang|33
+69Y-222.61|Bui Thanh Tam|Hai Phong|My Tho|31
+06G-197.90|Ngo Minh Linh|Vinh|Nha Trang|30
+13I-552.22|Ngo Thanh An|Hue|Sai Gon|24
+66T-629.17|Vu Van Oanh|Can Tho|Nha Trang|39
+74J-936.24|Hoang Quang Nam|Buon Ma Thuot|Da Nang|32
+77J-886.51|Ngo Quang Dung|Can Tho|Da Lat|43
+20P-398.27|Huynh Ngoc Dung|Hai Phong|Nha Trang|19
+29P-218.10|Tran Cong Nam|Sai Gon|Ha Noi|16
+33Q-011.70|Vu Thanh Cuong|Nha Trang|Bien Hoa|20
+36F-068.66|Hoang Huu Uyen|My Tho|Da Nang|29
+86O-384.65|Le Huu Linh|Buon Ma Thuot|Quy Nhon|38
+00B-683.46|Do Cong Son|Nha Trang|Vinh|33
+98G-313.99|Nguyen Ngoc Em|Can Tho|Nha Trang|18
+17B-125.97|Duong Quang Viet|Da Lat|Bien Hoa|36
+58J-343.58|Hoang Thanh Khanh|Ha Noi|My Tho|40
+43B-616.88|Duong Huu Giang|Can Tho|Hue|45
+95Y-526.47|Le Duc Son|Buon Ma Thuot|Sai Gon|21
+03I-198.56|Huynh Van Quyen|Nha Trang|My Tho|44
+42I-488.80|Duong Minh Uyen|Vinh|Da Lat|29
+96Q-541.35|Phan Van Hoa|Vung Tau|Can Tho|49
+53V-182.40|Dang Thanh Son|Buon Ma Thuot|Nha Trang|39
+58D-147.85|Phan Duc Linh|Nha Trang|Hue|36
+24Y-678.13|Huynh Thanh Giang|Da Nang|Hue|30
+49G-561.64|Vu Thi Quyen|Nha Trang|Da Lat|23
+33W-592.98|Huynh Ngoc Khanh|Vinh|Ha Noi|26
+95N-764.56|Phan Huu Dung|My Tho|Vung Tau|17
+01N-546.75|Le Quang Uyen|Vung Tau|Hue|31
+38W-563.69|Phan Kim Nam|Nha Trang|Bien Hoa|34
+17U-021.20|Pham Thi Hoa|Vinh|Sai Gon|21
+59B-159.56|Pham Quang Phuc|Buon Ma Thuot|Can Tho|24
+34V-470.84|Huynh Van Oanh|Quy Nhon|Buon Ma Thuot|31
+35R-581.05|Hoang Minh Binh|My Tho|Sai Gon|36
+64S-083.45|Vo Ngoc Cuong|Bien Hoa|Da Nang|47
+77F-729.59|Nguyen Thanh Nam|Buon Ma Thuot|Da Lat|26
+19M-454.04|Do Duc Viet|Can Tho|Sai Gon|49
+79M-040.01|Nguyen Thi Em|Nha Trang|Da Nang|32
+45L-627.32|Hoang Cong Linh|Ha Noi|Vinh|19
+48Q-021.80|Vo Thi Phuc|Bien Hoa|Buon Ma Thuot|42
+40B-461.23|Ngo Duc Viet|Buon Ma Thuot|Bien Hoa|31
+95R-199.61|Huynh Quang Phong|Hai Phong|Vung Tau|47
+27I-381.09|Le Cong Viet|Vinh|My Tho|22
+38C-122.81|Vo Duc Son|Vinh|Bien Hoa|38
+02Y-949.09|Dang Duc Uyen|Sai Gon|Buon Ma Thuot|43
+46D-445.26|Vo Duc Phong|Nha Trang|Sai Gon|30
+03D-298.16|Le Kim An|Ha Noi|Da Nang|38
+85I-392.67|Le Huu Oanh|Quy Nhon|Hai Phong|39
+22H-346.43|Ngo Duc Em|Can Tho|My Tho|38
+55R-533.33|Vu Thi Quyen|Bien Hoa|Vung Tau|39
+64O-327.10|Bui Minh Tam|Da Nang|Hue|23
+54V-042.43|Ngo Quang Nam|My Tho|Vung Tau|30
+39W-366.51|Pham Ngoc Uyen|Da Lat|Sai Gon|39
+09L-674.37|Nguyen Quang Phuc|Vinh|Da Lat|45
+81C-077.50|Nguyen Thanh Dung|Can Tho|Bien Hoa|44
+82Z-409.03|Huynh Minh Binh|Vinh|Bien Hoa|42
+21W-447.13|Do Ngoc Dung|Bien Hoa|Hue|42
+05W-407.81|Le Minh Linh|Quy Nhon|Da Lat|26
+13V-612.10|Tran Minh Em|Da Nang|Nha Trang|22
+48I-285.33|Nguyen Ngoc Binh|Quy Nhon|Da Nang|32
+29N-205.50|Ngo Huu Nam|Bien Hoa|Ha Noi|35
+72T-679.58|Pham Minh Cuong|Da Lat|Da Nang|42
+87G-220.16|Dang Minh An|Nha Trang|My Tho|37
+47S-874.41|Do Minh Dung|My Tho|Vinh|44
+36L-881.14|Le Quang Iem|Quy Nhon|Da Nang|47
+43B-479.14|Duong Ngoc Oanh|Ha Noi|My Tho|28
+21E-542.69|Hoang Duc Mai|Vinh|Bien Hoa|36
+30Q-591.30|Phan Cong Oanh|Hue|Sai Gon|23
+09I-327.51|Ly Ngoc Em|Vinh|Quy Nhon|28
+51S-593.35|Ngo Huu Cuong|Vinh|Nha Trang|43
+55K-730.66|Vu Quang Khanh|Ha Noi|Quy Nhon|24
+34C-724.16|Dang Thi Viet|Quy Nhon|Vinh|28
+24V-677.89|Nguyen Cong Hoa|Da Nang|Ha Noi|43
+40Y-802.52|Vo Ngoc Binh|Quy Nhon|Da Nang|49
+58R-957.52|Ngo Quang Phong|Vinh|Nha Trang|30
+41S-999.29|Hoang Minh Cuong|Da Lat|Vinh|34
+91H-565.56|Tran Kim Khanh|Bien Hoa|Da Nang|16
+85Y-366.06|Le Minh Iem|Vinh|Buon Ma Thuot|40
+06H-086.94|Ly Cong Linh|Ha Noi|Buon Ma Thuot|26
+59T-026.98|Tran Huu Viet|My Tho|Sai Gon|28
+96E-187.09|Le Quang Cuong|Ha Noi|Hai Phong|49
+37W-594.27|Duong Huu Oanh|Can Tho|Nha Trang|45
+81L-987.63|Tran Minh Hoa|Nha Trang|My Tho|30
+61R-003.31|Huynh Huu Iem|My Tho|Sai Gon|38
+88N-274.53|Vu Duc Mai|Da Nang|Quy Nhon|25
+06T-851.08|Huynh Ngoc Dung|Ha Noi|My Tho|33
+35B-221.21|Nguyen Huu Quyen|Sai Gon|Nha Trang|21
+67R-731.40|Vo Cong Khanh|My Tho|Da Lat|42
+88D-957.50|Dang Van Hoa|Sai Gon|Hai Phong|39
+51C-500.58|Bui Duc Uyen|Da Lat|Buon Ma Thuot|29
+96I-579.45|Bui Thanh Mai|Quy Nhon|Da Nang|18
+93P-471.40|Duong Huu Binh|Da Nang|Can Tho|46
+17U-670.32|Dang Cong Dung|Bien Hoa|Da Lat|35
+58Y-290.67|Do Cong Linh|Quy Nhon|Da Lat|18
+21D-417.86|Vo Huu An|Ha Noi|Da Lat|42
+68X-986.80|Ly Thi Phuc|Hai Phong|Nha Trang|43
+11X-169.05|Vu Duc Binh|Da Lat|Hai Phong|29
+52V-307.06|Huynh Thanh Iem|Can Tho|Da Nang|50
+13A-925.30|Ngo Ngoc Phong|Nha Trang|Sai Gon|22
+53O-788.10|Huynh Cong Son|Da Lat|Ha Noi|30
+74J-229.52|Huynh Ngoc Tam|Bien Hoa|Vinh|20
+97E-041.29|Le Thanh Viet|Ha Noi|Da Nang|17
+07U-979.38|Bui Van Son|Vung Tau|Can Tho|46
+81I-204.61|Le Quang Hoa|Da Lat|Hue|17
+14W-249.94|Duong Thi Oanh|Vinh|Hue|42
+77R-214.40|Bui Minh Nam|Hai Phong|Vung Tau|32
+14I-034.80|Phan Van An|Vung Tau|Buon Ma Thuot|16
+96O-861.02|Bui Kim Oanh|My Tho|Quy Nhon|45
+71Y-607.83|Tran Thi Mai|Sai Gon|My Tho|21
+30A-348.77|Ly Van Khanh|Vinh|Hai Phong|47
+55H-991.43|Pham Duc Khanh|Vung Tau|Bien Hoa|25
+64N-377.11|Huynh Ngoc Giang|Quy Nhon|Nha Trang|22
+09T-223.51|Vo Quang Quyen|Hai Phong|Bien Hoa|17
+95M-116.37|Do Cong An|My Tho|Vung Tau|32
+78H-198.25|Vo Cong Iem|Bien Hoa|Quy Nhon|39
+04H-422.44|Vo Kim Khanh|Vinh|Vung Tau|20
+14Y-249.17|Nguyen Van Binh|Buon Ma Thuot|Vinh|44
+53O-302.99|Ly Quang Em|Da Lat|Quy Nhon|40
+11Q-037.86|Vo Quang Viet|Quy Nhon|Nha Trang|23
+28M-223.29|Huynh Huu Em|Nha Trang|My Tho|16
+53H-455.18|Le Cong Dung|Da Nang|Da Lat|34
+62E-406.52|Tran Cong Hoa|Quy Nhon|Vung Tau|41
+89T-767.51|Vu Duc Linh|Sai Gon|Bien Hoa|17
+16A-171.02|Phan Huu Phuc|My Tho|Nha Trang|23
+01M-886.93|Ngo Cong Mai|Nha Trang|Quy Nhon|17
+56J-986.32|Vo Cong Linh|Hue|Bien Hoa|24
+25V-759.31|Ngo Duc An|Nha Trang|Sai Gon|36
+08W-428.80|Vu Duc Mai|Buon Ma Thuot|Can Tho|44
+18M-973.84|Vo Van Quyen|Sai Gon|Quy Nhon|50
+29T-318.63|Pham Van Quyen|Ha Noi|Da Nang|21
+57C-988.64|Pham Van Viet|Hai Phong|Quy Nhon|33
+12T-623.94|Ngo Kim Quyen|Nha Trang|Sai Gon|31
+07Z-365.32|Ngo Van Oanh|Vinh|Bien Hoa|16
+67J-325.36|Ly Cong Mai|Buon Ma Thuot|Da Nang|18
+86B-455.49|Dang Kim Viet|Ha Noi|Vinh|48
+78I-225.44|Pham Thanh Em|My Tho|Ha Noi|33
+39O-405.43|Duong Minh Phuc|My Tho|Hue|32
+44L-897.63|Phan Huu Mai|Da Lat|Can Tho|38
+25P-542.76|Bui Thi Giang|Sai Gon|Buon Ma Thuot|37
+81W-913.27|Ngo Thi Nam|Can Tho|Vinh|27
+24T-926.30|Hoang Thi An|Vung Tau|Da Nang|50
+05I-730.77|Do Van Oanh|Da Lat|Hue|39
+16G-749.37|Tran Duc Iem|Da Nang|Bien Hoa|28
+52O-990.48|Dang Huu An|My Tho|Buon Ma Thuot|37
+72Z-510.86|Ly Thi Tam|Hai Phong|Sai Gon|40
+67H-985.71|Le Duc Cuong|Vung Tau|Sai Gon|31
+29B-171.34|Ly Van Linh|Nha Trang|Sai Gon|28
+30D-291.45|Tran Cong Khanh|Bien Hoa|Sai Gon|31
+23L-870.62|Vu Duc Linh|Nha Trang|Vung Tau|21
+87B-909.88|Do Duc Son|Hai Phong|Can Tho|41
+86L-394.90|Hoang Duc Phuc|Da Lat|Hai Phong|39
+42M-626.67|Pham Thanh An|Buon Ma Thuot|Ha Noi|50
+28X-242.92|Ly Kim Viet|Quy Nhon|Vinh|43
+91D-704.28|Huynh Thanh Giang|Buon Ma Thuot|Hai Phong|41
+50L-026.23|Vo Quang Hoa|Vinh|Bien Hoa|41
+77R-454.82|Vu Quang Cuong|Sai Gon|Vung Tau|42
+85Q-748.88|Phan Thanh Em|My Tho|Vinh|50
+59C-567.30|Pham Quang Viet|Quy Nhon|Sai Gon|27
+06Y-853.08|Vo Duc Hoa|Vinh|Hai Phong|41
+55K-447.28|Ly Ngoc Phong|Ha Noi|Nha Trang|42
+00U-050.64|Huynh Cong Binh|Bien Hoa|Ha Noi|38
+77F-597.40|Le Thanh Mai|Vung Tau|Can Tho|39
+13P-868.49|Vu Thanh Em|Bien Hoa|Nha Trang|30
+30I-434.26|Hoang Thi Giang|Can Tho|Bien Hoa|49
+19L-971.90|Hoang Thanh Nam|Hue|Vung Tau|46
+16T-514.00|Dang Thi Khanh|Da Nang|Nha Trang|50
+85U-286.96|Nguyen Ngoc Giang|Nha Trang|My Tho|41
+25Y-023.01|Bui Quang Nam|My Tho|Quy Nhon|49
+68A-637.94|Tran Ngoc Son|Vinh|Nha Trang|37
+34N-918.26|Hoang Duc Iem|Hai Phong|Nha Trang|43
+38O-175.04|Nguyen Cong Viet|Buon Ma Thuot|Sai Gon|49
+13Q-790.40|Nguyen Thi Mai|Sai Gon|Vinh|47
+75N-961.66|Ly Quang Khanh|Buon Ma Thuot|Can Tho|37
+20V-551.04|Huynh Duc Viet|Hai Phong|Sai Gon|49
+09P-283.73|Vu Quang Mai|Bien Hoa|Nha Trang|28
+25G-064.67|Nguyen Thanh Mai|Quy Nhon|Bien Hoa|42
+39A-898.49|Vo Cong Cuong|Vung Tau|Nha Trang|24
+56E-333.93|Phan Quang Phuc|Da Lat|My Tho|29
+39I-181.34|Vo Van Linh|Buon Ma Thuot|Da Lat|35
+01I-232.85|Ngo Duc Phong|Nha Trang|Hai Phong|19
+68V-381.51|Nguyen Minh Linh|Ha Noi|My Tho|20
+02B-263.32|Huynh Van Cuong|Hai Phong|Ha Noi|45
+09F-642.51|Dang Thi Dung|Hue|Ha Noi|38
+94P-566.82|Ngo Kim Tam|Quy Nhon|Ha Noi|26
+59S-123.04|Tran Ngoc Uyen|Bien Hoa|Da Nang|33
+18W-421.20|Hoang Thi Quyen|My Tho|Hai Phong|30
+25Q-983.94|Ly Van Son|Vinh|Ha Noi|48
+96J-821.99|Ngo Kim Iem|Da Lat|Hai Phong|41
+60W-354.84|Huynh Cong Dung|Vinh|Can Tho|47
+26U-974.07|Ly Cong Phong|Da Lat|Bien Hoa|31
+30F-657.19|Pham Ngoc Viet|My Tho|Nha Trang|21
+12C-760.32|Ly Thi Phong|Ha Noi|Buon Ma Thuot|29
+60O-982.40|Vo Duc Khanh|Sai Gon|Ha Noi|44
+63Q-687.01|Tran Huu Hoa|Sai Gon|Da Lat|33
+38Y-063.12|Le Minh Viet|Vung Tau|Da Nang|50
+56N-507.32|Nguyen Quang Giang|Da Nang|Buon Ma Thuot|29
+22X-995.42|Hoang Ngoc Tam|Vung Tau|Nha Trang|26
+90F-553.85|Le Minh Quyen|My Tho|Vung Tau|30
+25B-727.39|Bui Ngoc Hoa|Ha Noi|Da Lat|37
+80G-716.41|Tran Huu Em|Da Nang|Bien Hoa|33
+76A-214.05|Ngo Kim Khanh|Sai Gon|My Tho|23
+69X-889.61|Huynh Cong An|Quy Nhon|Nha Trang|23
+28P-864.47|Phan Quang Phong|Quy Nhon|Hai Phong|19
+36X-810.64|Hoang Duc Oanh|Hue|Vinh|32
+13J-201.08|Hoang Thanh Khanh|Vinh|Bien Hoa|20
+20C-706.37|Nguyen Thi Viet|Nha Trang|Ha Noi|18
+87W-236.75|Huynh Minh Phong|My Tho|Sai Gon|18
+84P-723.61|Hoang Ngoc Giang|Da Nang|Da Lat|49
+03S-889.83|Phan Huu Phuc|Buon Ma Thuot|Ha Noi|32
+50O-924.29|Nguyen Cong Linh|Vung Tau|Ha Noi|29
+65H-205.99|Pham Ngoc Iem|Vung Tau|Ha Noi|20
+14U-878.34|Nguyen Thi Khanh|Vung Tau|Hai Phong|46
+17I-873.84|Pham Minh Son|Vung Tau|Nha Trang|41
+05U-352.76|Ngo Huu Phuc|Sai Gon|Da Nang|41
+11Z-469.36|Le Duc Uyen|Bien Hoa|Hue|47
+47Q-513.79|Do Quang Son|Ha Noi|Bien Hoa|24
+46M-085.58|Vu Kim Cuong|Vung Tau|Buon Ma Thuot|37
+73K-798.24|Hoang Quang Uyen|Hai Phong|Nha Trang|46
+17E-612.53|Le Kim Nam|Da Nang|Vung Tau|41
+42K-228.37|Ly Thi Nam|Quy Nhon|My Tho|22
+36S-656.14|Tran Minh Binh|Nha Trang|Da Lat|25
+09M-472.32|Do Quang Khanh|Bien Hoa|Sai Gon|30
+32I-502.81|Vu Thi Viet|Hue|Quy Nhon|35
+91P-428.96|Duong Cong Dung|Da Nang|Da Lat|47
+02J-942.49|Le Cong Oanh|Vinh|My Tho|26
+62O-588.87|Vu Thanh Mai|Ha Noi|Vinh|39
+41X-562.02|Huynh Duc Quyen|Ha Noi|Can Tho|33
+86Z-994.98|Bui Cong Viet|Vung Tau|Quy Nhon|29
+63A-883.75|Tran Minh Quyen|Hue|Sai Gon|39
+18W-821.04|Ngo Thanh Tam|Hue|Vinh|30
+77Y-292.41|Hoang Cong Binh|Vung Tau|Quy Nhon|49
+74B-593.15|Do Thi Khanh|Quy Nhon|Sai Gon|50
+74F-675.60|Phan Thanh Tam|Vung Tau|Quy Nhon|49
+19P-720.45|Nguyen Van Em|Vung Tau|Vinh|35
+26A-015.06|Le Thanh Son|Buon Ma Thuot|Quy Nhon|43
+30T-732.47|Nguyen Van Son|My Tho|Da Nang|32
+78S-112.89|Bui Ngoc Mai|Da Nang|Vung Tau|50
+43Y-498.26|Ngo Huu Son|Sai Gon|Da Lat|30
+68P-521.74|Tran Thanh Em|Can Tho|Hai Phong|22
+73S-047.90|Pham Minh Cuong|Vung Tau|Da Nang|35
+31X-018.36|Hoang Duc Em|Bien Hoa|Vinh|27
+41T-640.82|Hoang Duc Uyen|Can Tho|Hue|31
+12R-533.89|Bui Kim Son|Da Lat|Buon Ma Thuot|26
+36V-430.16|Phan Minh Dung|Nha Trang|Bien Hoa|25
+69G-028.50|Ly Minh Phong|Buon Ma Thuot|Vung Tau|27
+26G-451.87|Vu Kim Binh|Can Tho|Bien Hoa|20
+46X-192.01|Dang Ngoc Dung|Buon Ma Thuot|My Tho|31
+49F-932.51|Tran Thanh Phuc|My Tho|Vinh|49
+32I-219.47|Huynh Thanh Khanh|Da Nang|Da Lat|41
+39Z-847.09|Vu Huu Em|Vung Tau|My Tho|28
+07E-458.30|Vo Kim Quyen|Buon Ma Thuot|Sai Gon|50
+28F-838.88|Ly Thi Linh|Hai Phong|My Tho|36
+32M-781.80|Dang Quang Nam|Sai Gon|Hue|44
+94E-332.04|Phan Minh Phuc|Vung Tau|Buon Ma Thuot|38
+99G-057.28|Duong Van Phuc|Da Lat|Vinh|49
+74C-471.57|Do Kim Quyen|Buon Ma Thuot|Nha Trang|29
+38O-839.10|Nguyen Huu An|Vinh|Hue|45
+79O-447.27|Hoang Thanh Viet|Vinh|My Tho|27
+42A-358.81|Bui Cong Phuc|Vinh|Hai Phong|27
+60H-837.84|Do Van Mai|Hue|Ha Noi|38
+57W-550.75|Le Van Cuong|Bien Hoa|Vung Tau|46
+32B-630.62|Hoang Kim Son|Bien Hoa|Nha Trang|47
+64Q-509.53|Le Cong Uyen|Vinh|Da Lat|47
+53Z-922.09|Pham Kim Khanh|Nha Trang|Bien Hoa|22
+54T-655.88|Tran Van Binh|Quy Nhon|Da Nang|43
+77O-488.84|Do Quang Mai|Hue|Hai Phong|16
+05L-585.88|Duong Quang Hoa|Can Tho|Ha Noi|27
+56S-852.44|Bui Quang Binh|Vung Tau|Hai Phong|33
+24G-695.90|Ly Van Iem|Sai Gon|Hai Phong|33
+45O-523.17|Phan Van Phong|Quy Nhon|Nha Trang|46
+57H-535.76|Tran Minh Quyen|Vinh|Can Tho|21
+55K-061.49|Phan Thanh Oanh|Da Lat|Quy Nhon|36
+96W-524.12|Vo Thi Dung|Hai Phong|Sai Gon|42
+38S-987.57|Nguyen Ngoc Linh|Da Nang|Da Lat|35
+73I-518.40|Phan Huu Oanh|Buon Ma Thuot|Ha Noi|27
+59H-803.42|Pham Thanh Uyen|My Tho|Nha Trang|35
+38F-018.16|Phan Thanh Linh|Buon Ma Thuot|Vinh|43
+85Y-738.80|Tran Quang An|Da Lat|Can Tho|29
+28H-197.73|Nguyen Huu Viet|Can Tho|Sai Gon|29
+70B-513.09|Vu Thi Tam|Sai Gon|Can Tho|16
+83V-711.86|Ngo Thi Khanh|Vinh|Sai Gon|38
+84B-722.64|Duong Thanh Tam|Hai Phong|Bien Hoa|48
+15Z-581.45|Bui Van Dung|Hue|Can Tho|50
+16E-063.82|Le Van Uyen|Ha Noi|Hue|35
+63O-229.62|Pham Huu Tam|My Tho|Vinh|21
+81S-164.31|Hoang Huu Linh|Hai Phong|Buon Ma Thuot|18
+55A-400.56|Phan Huu Viet|Bien Hoa|Hai Phong|36
+54L-911.81|Ngo Huu Khanh|Quy Nhon|My Tho|48
+00O-774.50|Bui Cong Son|Bien Hoa|Nha Trang|22
+46K-503.68|Hoang Quang Iem|Can Tho|Nha Trang|34
+08O-569.24|Huynh Cong Tam|Vinh|Can Tho|40
+47S-931.90|Duong Kim Cuong|Da Nang|Hai Phong|45
+77T-404.50|Dang Ngoc Iem|Quy Nhon|Hai Phong|34
+62L-419.72|Bui Thanh Uyen|Buon Ma Thuot|Quy Nhon|46
+30U-746.74|Tran Minh Quyen|Hai Phong|Da Lat|16
+29X-492.89|Ngo Cong Nam|Buon Ma Thuot|Sai Gon|43
+14C-151.57|Dang Duc Son|Vinh|Buon Ma Thuot|46
+06N-167.82|Vu Huu Hoa|Buon Ma Thuot|Ha Noi|21
+20Z-371.02|Do Quang An|Sai Gon|Hai Phong|18
+73A-686.93|Hoang Kim Phong|Quy Nhon|Bien Hoa|20
+49V-459.66|Do Cong Em|Buon Ma Thuot|Can Tho|33
+03S-872.29|Bui Thanh Phuc|Nha Trang|Ha Noi|44
+63L-610.72|Vu Van An|Da Lat|Can Tho|25
+04N-727.43|Vo Thi Dung|Ha Noi|Quy Nhon|21
+33X-688.33|Vo Ngoc Hoa|Quy Nhon|Buon Ma Thuot|31
+64G-047.55|Nguyen Minh Dung|Da Lat|Sai Gon|43
+51Z-898.34|Bui Quang Tam|Bien Hoa|Ha Noi|46
+64Q-369.82|Pham Ngoc Linh|Da Nang|Sai Gon|37
+96D-289.23|Duong Van Mai|Quy Nhon|Ha Noi|33
+55S-328.11|Ly Minh Binh|Quy Nhon|Ha Noi|31
+79C-046.03|Huynh Duc Viet|Bien Hoa|Hai Phong|26
+22W-195.72|Vo Thanh Phong|Nha Trang|Vinh|19
+50M-998.90|Vu Van Dung|Vinh|Da Lat|47
+94D-924.70|Dang Ngoc An|Ha Noi|Bien Hoa|23
+85E-682.34|Nguyen Ngoc Oanh|My Tho|Hai Phong|42
+57I-150.54|Hoang Thi Oanh|Vinh|Sai Gon|27
+07O-457.89|Duong Thi Phuc|Buon Ma Thuot|Ha Noi|40
+79Q-132.86|Pham Cong Em|Nha Trang|Hai Phong|17
+91B-791.92|Vu Ngoc Khanh|Ha Noi|Da Nang|18
+30Q-322.90|Dang Thi Iem|Can Tho|Hai Phong|45
+06J-104.23|Vo Quang Mai|Ha Noi|Da Lat|50
+11G-261.72|Tran Duc Iem|Ha Noi|Hai Phong|22
+67V-923.14|Vu Thi Hoa|Da Lat|Nha Trang|37
+96U-745.92|Vu Van Nam|Hue|Vinh|20
+21V-784.84|Duong Minh Binh|Nha Trang|Vinh|39
+63B-112.00|Do Minh Son|Vinh|Quy Nhon|20
+18L-363.22|Tran Thi Phong|Vung Tau|My Tho|38
+40I-989.33|Duong Thi Hoa|Vung Tau|Bien Hoa|31
+43M-148.03|Nguyen Minh Quyen|Da Lat|Hai Phong|16
+41Z-988.32|Huynh Duc An|Vung Tau|Vinh|23
+42P-386.36|Bui Van Son|My Tho|Bien Hoa|20
+34L-632.45|Vo Duc An|Da Lat|Buon Ma Thuot|42
+47V-014.10|Huynh Ngoc Phuc|Nha Trang|Hue|27
+07E-584.21|Tran Cong Mai|Hai Phong|Sai Gon|28
+35G-471.02|Phan Kim Dung|Can Tho|Hai Phong|25
+71U-713.60|Vo Minh Iem|Ha Noi|Hai Phong|32
+96H-668.08|Tran Ngoc Tam|Buon Ma Thuot|Hue|20
+61V-034.88|Ly Thi Oanh|My Tho|Da Lat|22
+01P-099.80|Tran Thanh Binh|Hue|Vinh|26
+57Q-286.53|Vo Cong Viet|Hue|Vung Tau|22
+76B-982.45|Bui Van Linh|Buon Ma Thuot|Nha Trang|28
+61F-520.48|Ngo Kim Phuc|Sai Gon|Da Lat|19
+57J-934.22|Vo Minh Quyen|Hai Phong|Ha Noi|38
+57Z-790.52|Phan Thanh Dung|My Tho|Hai Phong|42
+12K-926.13|Ngo Van An|Da Nang|Vung Tau|30
+71R-303.50|Do Duc Hoa|Hue|Da Lat|39
+47M-723.65|Vo Ngoc Iem|Hue|Hai Phong|27
+55G-934.54|Ngo Kim Binh|Da Nang|Hue|49
+36N-986.22|Vo Van Giang|Vinh|Da Lat|41
+55P-987.66|Bui Van Quyen|Da Lat|Vung Tau|47
+44J-495.03|Nguyen Quang Son|Vinh|Hai Phong|42
+43P-224.25|Ngo Quang Iem|Can Tho|Ha Noi|43
+51B-491.90|Le Thanh Binh|Buon Ma Thuot|Vung Tau|48
+20L-140.54|Ly Quang Phuc|Can Tho|Da Nang|24
+54E-191.35|Dang Van Oanh|Hai Phong|Vinh|18
+22U-036.96|Tran Huu Hoa|Vinh|My Tho|22
+90W-629.68|Vo Duc Iem|Nha Trang|Quy Nhon|20
+81E-152.48|Duong Huu Mai|Nha Trang|Vung Tau|42
+39R-049.00|Phan Duc Uyen|Can Tho|Da Lat|16
+91M-591.74|Ngo Huu Iem|Sai Gon|Can Tho|33
+86O-111.99|Duong Minh Khanh|Sai Gon|Nha Trang|31
+39O-910.22|Ngo Thanh Uyen|Vung Tau|Da Lat|39
+81L-537.09|Ngo Cong Iem|Quy Nhon|Nha Trang|48
+06O-452.40|Vu Minh Linh|Vinh|Quy Nhon|18
+88W-460.54|Do Thi Oanh|Hue|Hai Phong|27
+66G-864.35|Vu Cong Phong|Can Tho|Quy Nhon|42
+07B-805.44|Vo Huu Uyen|Buon Ma Thuot|Ha Noi|36
+61Q-655.75|Phan Ngoc Giang|My Tho|Quy Nhon|41
+38Q-241.51|Nguyen Cong Cuong|Vinh|Vung Tau|47
+56G-856.26|Hoang Quang Viet|Quy Nhon|Da Nang|35
+70Y-941.43|Hoang Van An|Hai Phong|Can Tho|33
+28Y-610.89|Vo Huu Son|Hai Phong|Vung Tau|48
+53V-138.28|Hoang Minh Oanh|Bien Hoa|Buon Ma Thuot|41
+24R-392.28|Vu Thi Binh|Ha Noi|Da Nang|18
+36R-597.29|Phan Duc Dung|Vung Tau|Hue|24
+87R-702.10|Duong Quang An|Buon Ma Thuot|Hue|46
+17A-102.28|Dang Minh Viet|Vung Tau|Hue|34
+90M-221.05|Ngo Cong Quyen|Bien Hoa|Hue|24
+11K-720.55|Do Huu An|Vinh|Nha Trang|38
+39L-769.75|Dang Thi Linh|Vung Tau|Ha Noi|44
+45W-945.13|Pham Kim Nam|Hue|Sai Gon|44
+04S-015.50|Duong Minh Uyen|Quy Nhon|Bien Hoa|33
+77Z-633.80|Tran Ngoc Linh|Quy Nhon|Ha Noi|16
+18I-049.86|Vu Van Dung|Vung Tau|Ha Noi|37
+19U-886.81|Tran Thanh Nam|My Tho|Nha Trang|34
+05N-755.73|Nguyen Kim Cuong|Vung Tau|Vinh|47
+86T-563.34|Vo Duc Cuong|Hue|Da Lat|33
+00U-424.00|Bui Kim Iem|Sai Gon|Hue|42
+85Q-788.82|Vu Thanh An|Vinh|Vung Tau|32
+89V-670.84|Nguyen Thanh Cuong|Vung Tau|My Tho|43
+58A-584.36|Tran Minh Phuc|Hue|Can Tho|34
+49J-159.29|Vu Thanh Binh|Hue|My Tho|29
+99F-239.05|Hoang Duc Linh|Nha Trang|Vung Tau|38
+24Q-633.41|Pham Ngoc Dung|Da Nang|Vung Tau|36
+80Q-470.82|Hoang Van Hoa|Hai Phong|Can Tho|41
+23H-480.24|Dang Van Uyen|Nha Trang|Bien Hoa|18
+94G-068.27|Dang Quang Cuong|My Tho|Nha Trang|26
+85X-439.04|Nguyen Duc Hoa|Nha Trang|Da Nang|19
+67B-192.68|Vu Huu Tam|Da Nang|Quy Nhon|18
+54D-815.99|Le Thi Nam|Bien Hoa|My Tho|20
+35G-319.68|Bui Kim Viet|Da Lat|Buon Ma Thuot|17
+44K-018.92|Pham Ngoc Khanh|Vinh|Vung Tau|37
+37X-678.85|Hoang Van Nam|Can Tho|Buon Ma Thuot|48
+69I-988.57|Huynh Kim Phuc|Vinh|Bien Hoa|29
+04K-645.55|Nguyen Thi Binh|Sai Gon|Hai Phong|34
+02G-732.30|Bui Kim Nam|Bien Hoa|Vinh|35
+15C-786.81|Vu Cong Phuc|Vinh|Hue|22
+31O-866.79|Dang Thanh Em|Quy Nhon|My Tho|39
+10W-800.32|Ly Duc Oanh|Sai Gon|Can Tho|46
+65G-992.93|Bui Kim Nam|Vinh|Can Tho|45
+23F-565.18|Ly Duc Uyen|Da Nang|My Tho|20
+68I-748.98|Phan Minh Hoa|Vung Tau|Buon Ma Thuot|35
+59Q-795.59|Huynh Van Khanh|Buon Ma Thuot|Hai Phong|42
+26H-621.45|Tran Minh Khanh|Da Nang|Hai Phong|30
+74Q-233.72|Ly Huu Giang|My Tho|Buon Ma Thuot|41
+59R-107.60|Nguyen Thi Mai|Da Lat|Vung Tau|49
+94R-505.54|Ly Minh Nam|Nha Trang|Hai Phong|33
+46N-475.74|Bui Ngoc Phuc|My Tho|Ha Noi|29
+47V-325.60|Vo Quang Oanh|Hai Phong|Nha Trang|24
+54H-578.72|Hoang Cong Phuc|Ha Noi|Da Nang|41
+28L-174.96|Dang Duc Dung|Quy Nhon|Da Nang|27
+70H-498.34|Phan Quang Khanh|Vinh|Nha Trang|29
+24X-005.51|Huynh Thi Dung|Vinh|Hai Phong|40
+38A-587.49|Bui Van Phong|Hue|Vung Tau|50
+08R-229.03|Dang Minh Phuc|My Tho|Quy Nhon|44
+46I-539.27|Vu Quang Dung|Quy Nhon|Ha Noi|20
+15C-167.45|Ngo Ngoc Son|Da Nang|Bien Hoa|32
+69S-456.98|Phan Kim Binh|Nha Trang|Buon Ma Thuot|48
+14Z-439.35|Bui Quang Binh|Da Nang|Hue|44
+78J-900.90|Do Huu Khanh|Hue|Vung Tau|46
+86K-103.86|Nguyen Quang Binh|Ha Noi|Hai Phong|35
+99W-154.93|Ly Thanh Hoa|My Tho|Vinh|37
+20O-626.88|Bui Thi Mai|Buon Ma Thuot|Bien Hoa|36
+28F-281.69|Bui Kim Em|Da Lat|Ha Noi|41
+16K-260.69|Vu Cong Phong|Vung Tau|Hai Phong|38
+46X-438.72|Dang Kim An|Quy Nhon|Vinh|42
+96X-311.96|Hoang Van Dung|Nha Trang|Quy Nhon|42
+95H-278.73|Do Cong Linh|My Tho|Sai Gon|16
+78C-240.96|Ngo Minh Cuong|Hue|Ha Noi|20
+97R-947.38|Duong Duc Linh|Nha Trang|Bien Hoa|43
+32K-710.34|Dang Ngoc Em|Sai Gon|Da Nang|16
+73K-741.47|Dang Kim Quyen|Hai Phong|Quy Nhon|40
+47U-517.98|Huynh Duc Giang|Quy Nhon|Buon Ma Thuot|36
+54W-665.69|Hoang Minh Son|Da Nang|Vinh|29
+95Y-228.38|Pham Quang Dung|Da Nang|Can Tho|31
+06P-305.65|Dang Duc Tam|Vung Tau|Bien Hoa|27
+99G-384.74|Dang Duc Iem|Nha Trang|Bien Hoa|29
+81G-002.03|Vu Huu Cuong|Da Lat|Bien Hoa|46
+38P-154.79|Hoang Ngoc Iem|Can Tho|Bien Hoa|18
+72M-324.57|Hoang Quang Uyen|Da Nang|My Tho|34
+38N-558.41|Vu Thanh Binh|Nha Trang|Vinh|27
+56M-361.32|Dang Van Hoa|Can Tho|Ha Noi|50
+14O-320.82|Duong Ngoc Linh|Da Nang|Quy Nhon|37
+30J-071.94|Tran Ngoc Son|Vinh|Ha Noi|24
+78O-411.62|Pham Huu Oanh|Hai Phong|Ha Noi|40
+24U-743.63|Nguyen Van Iem|Ha Noi|Vung Tau|36
+45C-509.74|Dang Duc Uyen|Vinh|Vung Tau|43
+83Q-081.86|Huynh Thanh Tam|Hai Phong|Quy Nhon|28
+89N-063.53|Hoang Minh Iem|Sai Gon|Ha Noi|47
+82S-780.04|Bui Kim Mai|Nha Trang|Ha Noi|22
+85U-165.24|Pham Huu Viet|Sai Gon|Vung Tau|35
+05A-472.04|Vu Kim Phong|Nha Trang|Da Nang|41
+99Z-089.31|Nguyen Ngoc Nam|Da Lat|Ha Noi|37
+34W-568.88|Hoang Minh Linh|Bien Hoa|Buon Ma Thuot|25
+07F-396.34|Phan Kim Cuong|Nha Trang|Ha Noi|49
+24H-569.18|Le Ngoc Nam|Hai Phong|Quy Nhon|44
+12M-423.75|Duong Van Khanh|Nha Trang|Vung Tau|37
+81Q-496.23|Ly Van An|Nha Trang|Buon Ma Thuot|23
+12Y-470.29|Ly Thanh Em|Buon Ma Thuot|Da Lat|39
+52W-131.71|Ngo Thi Phuc|Da Lat|Ha Noi|26
+65Q-662.89|Phan Duc Tam|Nha Trang|Buon Ma Thuot|30
+81U-277.41|Bui Ngoc Hoa|Ha Noi|Quy Nhon|48
+05A-232.88|Huynh Duc An|Vung Tau|Nha Trang|39
+32E-272.73|Duong Thi Viet|Quy Nhon|Buon Ma Thuot|17
+82K-077.08|Bui Quang Khanh|Vinh|Buon Ma Thuot|22
+61I-005.72|Pham Thi Binh|Hai Phong|Can Tho|45
+59D-860.59|Do Thanh Mai|Da Lat|Nha Trang|19
+63F-495.72|Vo Thanh Son|Bien Hoa|Sai Gon|26
+90Y-498.21|Tran Thanh Phuc|Vinh|Hue|26
+67V-508.11|Hoang Minh Dung|Da Nang|Vung Tau|23
+77K-567.48|Duong Thi Tam|Vinh|Nha Trang|31
+60B-392.97|Huynh Huu Khanh|Hue|Nha Trang|44
+28J-486.89|Vu Kim Phuc|Sai Gon|Nha Trang|47
+06I-425.18|Hoang Cong An|Hai Phong|Can Tho|37
+57X-035.05|Nguyen Van Linh|Vinh|Can Tho|45
+75G-884.52|Vu Thanh Khanh|Can Tho|Hue|45
+11U-516.80|Pham Huu Dung|Vinh|Da Lat|28
+72W-112.82|Huynh Minh Khanh|Quy Nhon|Buon Ma Thuot|39
+69C-646.28|Phan Thanh Linh|Buon Ma Thuot|Vinh|20
+57P-943.16|Hoang Thi An|Nha Trang|Da Lat|26
+71L-439.55|Ngo Huu Viet|My Tho|Sai Gon|20
+21X-190.83|Hoang Cong Son|Sai Gon|Buon Ma Thuot|49
+73Y-348.23|Duong Thanh Iem|Bien Hoa|Hai Phong|21
+22J-562.36|Vu Huu Phuc|Hai Phong|Can Tho|41
+81Q-148.96|Ngo Minh Tam|Quy Nhon|Nha Trang|19
+03V-278.21|Hoang Kim Son|Ha Noi|Hue|18
+17I-292.70|Nguyen Ngoc Em|Ha Noi|Sai Gon|48
+65E-842.92|Pham Van Viet|Da Nang|Ha Noi|20
+21F-195.82|Phan Thi Phuc|Can Tho|Hai Phong|30
+30M-037.83|Ngo Cong Viet|Ha Noi|Vung Tau|20
+69Q-120.74|Huynh Ngoc Dung|Nha Trang|Da Nang|25
+74J-501.64|Ly Cong Linh|Hue|Sai Gon|24
+30L-738.68|Pham Thi Giang|Nha Trang|Da Lat|29
+67Z-886.61|Ngo Cong Linh|Da Nang|Hue|17
+30L-640.96|Phan Minh Khanh|Hai Phong|Sai Gon|46
+67R-025.74|Le Ngoc Viet|Sai Gon|Buon Ma Thuot|43
+05Y-650.96|Vu Duc Giang|My Tho|Sai Gon|16
+92S-734.91|Vo Minh Son|Ha Noi|Sai Gon|29
+58E-911.32|Hoang Thanh Oanh|Nha Trang|Da Nang|44
+72Y-061.12|Duong Ngoc Quyen|Hai Phong|Vung Tau|48
+06M-888.09|Vo Minh Khanh|Quy Nhon|Vinh|19
+81U-585.95|Le Quang Viet|Da Lat|Ha Noi|39
+12Q-196.26|Ngo Kim Em|Hai Phong|Vung Tau|49
+83M-686.08|Tran Thi An|Sai Gon|Quy Nhon|45
+70J-405.05|Ngo Minh Em|Vinh|Ha Noi|36
+53M-068.83|Vu Kim Uyen|Da Nang|Buon Ma Thuot|37
+50Q-942.59|Vu Huu Giang|Hue|Quy Nhon|33
+71X-835.80|Nguyen Huu Cuong|My Tho|Sai Gon|44
+70M-177.02|Huynh Ngoc Cuong|Bien Hoa|Vinh|40
+93H-885.57|Huynh Ngoc Viet|Da Lat|My Tho|34
+93V-387.49|Dang Kim Iem|Da Nang|Nha Trang|19
+69P-429.11|Bui Quang An|Ha Noi|Nha Trang|31
+69N-435.24|Vu Thanh Em|Da Nang|Sai Gon|26
+78L-403.36|Phan Huu Uyen|Vung Tau|Vinh|44
+91C-760.90|Phan Cong Em|Hai Phong|Nha Trang|27
+64M-454.06|Vu Huu Binh|Hai Phong|Can Tho|37
+90E-308.37|Hoang Cong Iem|Hue|Da Nang|22
+25J-407.13|Pham Duc Viet|Can Tho|Da Nang|21
+88W-219.96|Huynh Thi Giang|Da Nang|Vinh|23
+96T-068.42|Pham Kim Em|Da Nang|Hue|25
+79C-334.88|Le Ngoc Quyen|Hue|Vung Tau|40
+14A-136.43|Duong Duc Khanh|Da Nang|Ha Noi|40
+10U-979.00|Ngo Thi Dung|My Tho|Nha Trang|46
+34V-680.34|Ly Huu Mai|Ha Noi|Bien Hoa|31
+80P-545.55|Duong Thanh Giang|Sai Gon|Vung Tau|47
+46G-745.10|Pham Van Tam|Vung Tau|Sai Gon|26
+47E-706.13|Do Ngoc An|Can Tho|Vung Tau|17
+81R-831.01|Vu Minh Iem|Bien Hoa|Ha Noi|17
+93X-349.49|Vo Kim Giang|Buon Ma Thuot|Ha Noi|16
+94W-765.46|Tran Cong Oanh|Ha Noi|Sai Gon|46
+73E-221.48|Vu Van Linh|Bien Hoa|Da Nang|30
+22N-558.08|Ly Thi Khanh|Hue|Buon Ma Thuot|27
+73C-947.34|Tran Kim Son|Hai Phong|Vinh|20
+94M-055.04|Duong Cong Hoa|Vinh|Hai Phong|33
+80O-576.67|Bui Thanh Iem|Hue|My Tho|43
+98P-926.10|Pham Duc Nam|Buon Ma Thuot|My Tho|36
+74M-045.76|Hoang Thanh Phuc|Vung Tau|Can Tho|16
+34W-059.13|Ngo Quang Mai|Ha Noi|Buon Ma Thuot|19
+39P-899.34|Tran Minh Binh|Da Lat|Hue|17
+63W-863.57|Nguyen Kim Em|Hue|Vinh|29
+55K-579.10|Vo Ngoc Iem|Hue|My Tho|25
+48A-069.31|Ngo Kim Uyen|Vinh|Bien Hoa|35
+91K-428.31|Pham Duc Mai|Nha Trang|Hai Phong|21
+66L-118.60|Bui Ngoc Hoa|Quy Nhon|Can Tho|35
+63T-243.46|Pham Minh Dung|Hai Phong|Vinh|25
+33C-038.21|Dang Huu Phong|Bien Hoa|Quy Nhon|33
+33E-266.61|Hoang Thi Viet|Buon Ma Thuot|Can Tho|22
+17B-751.90|Hoang Quang Cuong|Hue|Vung Tau|19
+30U-468.58|Pham Thi Iem|Vung Tau|Bien Hoa|48
+32D-372.65|Le Duc Viet|Buon Ma Thuot|Sai Gon|26
+27E-470.92|Hoang Thi Quyen|My Tho|Sai Gon|27
+35Y-377.81|Huynh Minh Phong|Buon Ma Thuot|Hai Phong|25
+18B-265.14|Vo Duc Phong|Da Nang|Nha Trang|25
+95L-273.24|Vo Huu Viet|Sai Gon|Bien Hoa|30
+61B-632.60|Ly Quang Phuc|My Tho|Can Tho|23
+65S-023.88|Tran Cong Quyen|Ha Noi|Hue|23
+86A-237.50|Nguyen Quang Cuong|Hai Phong|Hue|36
+88R-800.25|Huynh Cong Phuc|Nha Trang|Hue|50
+29W-400.75|Vo Quang Iem|Nha Trang|Can Tho|25
+18M-384.95|Le Kim Phuc|Can Tho|Hai Phong|25
+95K-298.18|Do Huu Son|Vinh|Bien Hoa|28
+44D-324.53|Huynh Huu Dung|Hue|Hai Phong|40
+16L-789.59|Vo Kim Viet|Hai Phong|Da Nang|29
+59W-407.26|Hoang Quang Iem|Hue|Buon Ma Thuot|22
+98L-272.97|Phan Quang Tam|Hue|Vung Tau|45
+68Q-472.30|Nguyen Minh Quyen|Nha Trang|Hai Phong|28
+02P-130.42|Vo Quang Dung|Da Nang|Hai Phong|42
+99I-668.49|Nguyen Cong Cuong|Ha Noi|My Tho|16
+03L-724.23|Vo Minh Phuc|My Tho|Da Nang|41
+67R-471.56|Le Cong Khanh|Ha Noi|Sai Gon|17
+61G-852.23|Vo Kim Khanh|Sai Gon|Da Lat|19
+77N-879.89|Nguyen Huu Dung|Ha Noi|Da Nang|21
+70B-160.14|Vu Duc Viet|My Tho|Vung Tau|41
+26H-518.64|Duong Ngoc Tam|Quy Nhon|Ha Noi|45
+25B-582.94|Dang Huu Phuc|Da Lat|Nha Trang|28
+71S-456.03|Le Huu Viet|Ha Noi|Nha Trang|49
+33F-878.02|Do Quang Quyen|Can Tho|Hue|44
+24O-282.87|Vu Van Nam|Bien Hoa|Sai Gon|29
+44B-460.04|Nguyen Ngoc Linh|Da Lat|Hai Phong|24
+10B-100.66|Vu Ngoc Phuc|Can Tho|Quy Nhon|38
+06Q-466.68|Vu Thanh Oanh|Bien Hoa|My Tho|22
+97P-235.51|Vo Ngoc Mai|My Tho|Da Lat|20
+93H-905.78|Pham Quang Khanh|Nha Trang|Vung Tau|19
+31G-866.03|Pham Quang Oanh|Buon Ma Thuot|Sai Gon|23
+46K-684.73|Hoang Huu Son|Quy Nhon|Bien Hoa|48
+83M-786.79|Nguyen Van Mai|Bien Hoa|Vinh|33
+60S-253.76|Phan Ngoc Phong|Bien Hoa|Da Lat|30
+40N-909.88|Le Cong Iem|Bien Hoa|Ha Noi|45
+90V-323.85|Huynh Minh Linh|Can Tho|Sai Gon|48
+01K-808.19|Phan Van Khanh|Ha Noi|Hai Phong|16
+62N-764.52|Hoang Quang Linh|Da Lat|Can Tho|39
+18S-485.78|Dang Kim Uyen|Can Tho|Hue|24
+89K-517.07|Vu Van Phuc|Ha Noi|Can Tho|23
+33E-831.13|Huynh Van Khanh|Da Nang|Quy Nhon|25
+42J-407.70|Tran Huu Cuong|Can Tho|Da Nang|34
+29C-325.80|Huynh Thanh Cuong|Vung Tau|Hue|36
+88V-795.79|Duong Huu Binh|Da Nang|Quy Nhon|40
+67B-312.71|Hoang Huu Quyen|Quy Nhon|Da Nang|41
+93X-569.97|Hoang Duc Linh|Ha Noi|Buon Ma Thuot|31
+69K-423.08|Pham Van Phong|Sai Gon|Vung Tau|22
+40P-853.14|Hoang Ngoc Son|Buon Ma Thuot|Bien Hoa|16
+70M-070.93|Huynh Kim Phuc|Quy Nhon|Nha Trang|23
+88G-651.58|Le Van Phuc|Hue|Bien Hoa|19
+46X-521.18|Vo Thanh Tam|Hue|Nha Trang|43
+13S-572.89|Vo Minh Linh|Hue|Da Nang|29
+03X-574.64|Pham Thi Son|Sai Gon|Da Nang|18
+07W-289.59|Vo Thanh Quyen|Ha Noi|Hue|33
+36B-835.91|Pham Thanh Oanh|Can Tho|Quy Nhon|19
+70J-446.79|Le Minh Uyen|Hue|Nha Trang|21
+78O-885.60|Do Cong Son|Da Lat|Vung Tau|32
+53I-514.01|Huynh Thi Iem|Can Tho|Hai Phong|16
+33J-723.71|Duong Huu Dung|Hue|Quy Nhon|47
+63A-726.72|Ngo Duc Hoa|Buon Ma Thuot|My Tho|48
+95U-058.04|Vo Quang Quyen|Can Tho|Hai Phong|17
+74S-492.58|Dang Quang Phong|Bien Hoa|Hue|17
+50X-639.93|Ngo Thi An|My Tho|Nha Trang|41
+01T-662.56|Do Ngoc Hoa|My Tho|Hai Phong|50
+39L-284.13|Bui Kim Em|My Tho|Nha Trang|22
+41D-939.13|Ngo Van Iem|Quy Nhon|Vung Tau|44
+03S-705.24|Dang Huu Khanh|Vung Tau|Vinh|36
+38F-336.52|Le Cong Nam|Quy Nhon|Buon Ma Thuot|25
+00L-051.85|Tran Huu Viet|Da Lat|Quy Nhon|37
+71W-915.80|Le Quang Viet|Vinh|Bien Hoa|29
+22E-550.24|Bui Van Phong|Nha Trang|My Tho|22
+83N-563.37|Vo Minh Hoa|Da Nang|Da Lat|43
+92D-861.12|Do Thanh Mai|Da Nang|Quy Nhon|39
+18X-178.08|Bui Quang Em|Vinh|Can Tho|47
+79F-716.17|Hoang Thanh Quyen|Ha Noi|Da Nang|16
+34T-387.63|Pham Huu Son|Ha Noi|Hai Phong|42
+70O-819.62|Nguyen Ngoc Linh|Buon Ma Thuot|Vung Tau|28
+76B-846.55|Phan Huu Uyen|Can Tho|Da Nang|37
+95Z-391.64|Tran Van Oanh|Bien Hoa|Da Lat|47
+65U-935.42|Pham Van Phuc|Hue|Buon Ma Thuot|21
+38H-551.32|Nguyen Cong Hoa|Ha Noi|Hue|29
+32P-312.41|Pham Duc An|Hue|My Tho|35
+72H-532.64|Dang Huu Phuc|My Tho|Sai Gon|18
+69J-674.62|Duong Huu Khanh|Vung Tau|Buon Ma Thuot|30
+10U-872.68|Vu Minh An|Buon Ma Thuot|Vinh|45
+51L-666.82|Duong Ngoc Uyen|Nha Trang|Hai Phong|17
+92J-953.77|Huynh Quang Em|Bien Hoa|Da Lat|30
+74W-458.75|Duong Duc Dung|Can Tho|Vung Tau|43
+02J-306.27|Do Duc Hoa|Can Tho|Buon Ma Thuot|38
+30F-084.79|Pham Duc Giang|Ha Noi|Buon Ma Thuot|16
+58C-762.25|Dang Thi Son|Hue|Da Nang|48
+02E-848.66|Pham Quang Son|Sai Gon|My Tho|18
+97D-982.04|Do Ngoc Mai|Vung Tau|Vinh|40
+82X-583.14|Dang Huu Linh|My Tho|Quy Nhon|33
+25O-048.86|Vo Quang Phuc|Da Lat|Hai Phong|47
+78C-031.75|Do Kim Viet|Sai Gon|Can Tho|41
+96W-616.00|Pham Van Son|Da Lat|Hai Phong|29
+58S-575.96|Ngo Cong Son|Sai Gon|My Tho|39
+30H-529.11|Ly Quang Linh|Da Nang|Vinh|42
+97M-101.18|Vu Ngoc Phong|Bien Hoa|Nha Trang|21
+76F-335.90|Do Quang Iem|Quy Nhon|Buon Ma Thuot|28
+47V-909.76|Pham Thanh An|Da Nang|Da Lat|45
+36L-719.66|Phan Ngoc Oanh|Sai Gon|Ha Noi|38
+13O-700.27|Duong Thanh Nam|Da Lat|Quy Nhon|18
+19Q-774.29|Le Kim Linh|Nha Trang|Da Nang|49
+64P-454.23|Do Thanh Phuc|Da Lat|Vinh|21
+26C-046.23|Phan Minh Quyen|My Tho|Ha Noi|18
+37G-085.63|Vu Kim An|Hue|Hai Phong|37
+58F-422.07|Huynh Kim Quyen|Vung Tau|Ha Noi|43
+48W-163.00|Hoang Duc Viet|My Tho|Da Nang|40
+55X-354.57|Tran Quang Cuong|Quy Nhon|Da Nang|43
+74S-185.48|Dang Ngoc Binh|Vinh|Bien Hoa|45
+78C-066.80|Duong Minh Iem|Can Tho|Vung Tau|27
+88B-919.26|Duong Van Dung|Vinh|Ha Noi|40
+29Q-974.95|Hoang Huu Binh|Nha Trang|Hue|47
+49D-702.69|Hoang Minh Uyen|Vinh|Bien Hoa|39
+26B-634.80|Vo Kim Phuc|Da Lat|Da Nang|37
+10K-956.41|Tran Cong Cuong|Bien Hoa|My Tho|33
+87I-045.01|Le Van Linh|Ha Noi|Vung Tau|31
+12P-224.95|Vu Kim Son|Hai Phong|Bien Hoa|48
+44Q-064.33|Duong Cong Phong|Quy Nhon|My Tho|28
+90P-431.68|Bui Kim Viet|Buon Ma Thuot|Ha Noi|41
+93R-780.21|Do Quang Dung|Can Tho|Hai Phong|43
+13B-341.91|Duong Minh Dung|Vung Tau|Da Nang|16
+38S-758.04|Bui Thanh Quyen|Da Nang|My Tho|33
+03G-842.38|Ngo Thanh Phong|Quy Nhon|Da Nang|50
+64I-721.13|Pham Kim Binh|Hue|Nha Trang|23
+20Z-610.18|Do Cong Son|Da Nang|Vung Tau|24
+42N-669.38|Nguyen Huu Viet|Nha Trang|Hai Phong|43
+30C-468.45|Vo Kim Phong|Sai Gon|Can Tho|46
+25A-485.86|Vu Cong Mai|Buon Ma Thuot|Da Lat|41
+87F-462.81|Do Cong Viet|Buon Ma Thuot|Quy Nhon|46
+24E-247.02|Phan Ngoc Giang|Can Tho|Da Nang|30
+72H-578.83|Nguyen Duc Iem|Da Lat|Nha Trang|17
+37Z-469.41|Le Thi Nam|Bien Hoa|Hue|36
+25Z-688.11|Hoang Cong Quyen|Buon Ma Thuot|Hue|22
+84S-285.55|Dang Cong Binh|Hai Phong|Buon Ma Thuot|37
+82N-013.16|Tran Quang Iem|Ha Noi|Bien Hoa|19
+71L-494.50|Huynh Thi Iem|Vung Tau|Hue|28
+76L-973.11|Ngo Kim Phuc|My Tho|Ha Noi|25
+18Q-955.44|Ngo Huu Dung|Hue|Nha Trang|44
+28D-029.69|Vo Van Nam|Quy Nhon|Hai Phong|17
+34Q-228.16|Pham Kim Em|My Tho|Ha Noi|32
+48L-851.97|Hoang Kim Giang|Bien Hoa|Hue|30
+00A-721.82|Ly Duc Giang|Vinh|Da Nang|36
+19A-329.32|Bui Thi Dung|Da Lat|Vung Tau|19
+60N-498.64|Vo Quang Binh|Can Tho|Hai Phong|45
+35V-151.03|Le Cong Iem|Vinh|Bien Hoa|18
+23Z-966.35|Huynh Ngoc Oanh|Bien Hoa|Can Tho|16
+12E-609.65|Duong Quang Quyen|Buon Ma Thuot|Vung Tau|45
+09V-697.14|Hoang Duc Tam|Nha Trang|Da Nang|27
+08Y-154.72|Le Kim Phuc|Quy Nhon|Sai Gon|21
+38E-478.09|Tran Duc Tam|Da Nang|Quy Nhon|35
+98U-602.22|Do Cong Phuc|Da Nang|Hai Phong|44
+58D-199.42|Ly Van Binh|Vung Tau|Hue|31
+36K-690.22|Duong Quang Linh|Da Lat|Ha Noi|37
+86Q-757.81|Vo Van Binh|Hai Phong|Nha Trang|36
+83O-176.88|Le Huu An|Da Lat|Bien Hoa|50
+91D-901.52|Phan Minh Hoa|Hue|Ha Noi|43
+16K-837.92|Huynh Duc Nam|Hai Phong|Can Tho|39
+80Q-670.91|Vo Huu Son|Vung Tau|Sai Gon|20
+25D-943.12|Phan Thi Hoa|Vung Tau|Da Lat|35
+42V-494.80|Nguyen Minh Mai|Da Nang|My Tho|29
+64C-816.41|Dang Quang Giang|Nha Trang|Hai Phong|37
+69N-130.66|Pham Thanh Nam|Quy Nhon|Hue|18
+59Y-975.50|Hoang Ngoc Mai|Da Lat|Buon Ma Thuot|40
+58P-701.11|Nguyen Kim Khanh|Can Tho|Bien Hoa|26
+60G-477.35|Nguyen Minh Mai|My Tho|Sai Gon|26
+86R-465.83|Dang Cong Khanh|Quy Nhon|Can Tho|36
+18I-601.44|Tran Duc Son|Bien Hoa|Da Lat|33
+62Z-196.59|Ly Thanh Viet|Can Tho|Buon Ma Thuot|21
+28J-695.54|Nguyen Cong Em|Can Tho|Buon Ma Thuot|17
+91X-043.63|Phan Van Tam|Bien Hoa|Buon Ma Thuot|45
+26I-630.10|Vu Cong Dung|My Tho|Quy Nhon|46
+90Q-575.70|Duong Kim Phong|Vinh|My Tho|40
+81P-315.52|Pham Minh Viet|Vung Tau|Hai Phong|33
+72M-940.73|Vu Ngoc Iem|Quy Nhon|Buon Ma Thuot|40
+06B-500.25|Duong Huu Viet|Buon Ma Thuot|Nha Trang|46
+45S-638.31|Duong Minh Linh|Quy Nhon|Bien Hoa|24
+39U-430.49|Vu Quang Tam|Vung Tau|Vinh|38
+95I-276.57|Bui Thanh Oanh|Bien Hoa|Quy Nhon|47
+63C-680.54|Ly Cong Quyen|Da Lat|Buon Ma Thuot|47
+85P-068.38|Ly Kim Giang|My Tho|Sai Gon|37
+08Y-021.00|Dang Quang Uyen|Da Lat|My Tho|33
+93K-584.77|Phan Minh Nam|Quy Nhon|Nha Trang|44
+47S-672.11|Ly Quang Giang|Da Lat|Bien Hoa|37
+93P-250.90|Huynh Van Giang|Can Tho|Vinh|48
+79V-889.88|Bui Quang Iem|Sai Gon|Hai Phong|26
+74W-362.76|Duong Thanh Linh|My Tho|Sai Gon|38
+32L-484.02|Nguyen Thi Dung|Can Tho|Hue|17
+90V-843.05|Dang Thanh Linh|My Tho|Da Nang|21
+18L-369.89|Huynh Kim Giang|Da Lat|Da Nang|18
+78L-297.76|Pham Cong Tam|Buon Ma Thuot|Can Tho|29
+76F-785.91|Hoang Thi Em|Bien Hoa|Da Nang|36
+26E-043.22|Phan Cong Quyen|Sai Gon|Hai Phong|42
+34A-690.25|Nguyen Van An|My Tho|Buon Ma Thuot|21
+82S-157.19|Duong Thi Phong|Hai Phong|Ha Noi|44
+57E-945.19|Huynh Cong Giang|Hai Phong|Ha Noi|16
+74W-710.60|Vo Van Nam|Vinh|Buon Ma Thuot|40
+80F-983.59|Tran Kim Linh|Ha Noi|Quy Nhon|37
+74S-244.43|Phan Van Linh|Da Lat|Ha Noi|34
+98T-094.45|Vu Minh Viet|Sai Gon|Hue|35
+98Y-262.72|Duong Van Viet|My Tho|Hai Phong|35
+06E-005.29|Pham Minh Phong|Da Nang|Bien Hoa|23
+03W-393.31|Huynh Minh Viet|Hai Phong|Buon Ma Thuot|19
+82N-962.52|Huynh Kim Uyen|Vung Tau|Bien Hoa|18
+41S-847.30|Hoang Duc Phuc|Hai Phong|Da Lat|39
+44T-015.31|Huynh Quang Binh|Vinh|Hai Phong|37
+67K-429.18|Vo Thi Son|Da Lat|Sai Gon|41
+20A-856.57|Ngo Minh Linh|Nha Trang|Hue|17
+12E-068.00|Vo Quang Mai|Buon Ma Thuot|Sai Gon|45
+71U-579.36|Duong Quang Uyen|Vinh|Ha Noi|38
+72F-626.17|Pham Ngoc Linh|Vung Tau|Quy Nhon|39
+61K-064.66|Bui Quang Dung|Quy Nhon|Buon Ma Thuot|24
+64Q-504.50|Huynh Van Iem|Vung Tau|My Tho|19
+61T-706.49|Huynh Thanh Hoa|Hue|My Tho|29
+06I-128.34|Bui Thi Dung|Vinh|Vung Tau|32
+08W-649.62|Ly Cong Phuc|Hai Phong|Nha Trang|18
+98W-636.10|Dang Duc An|Hai Phong|Hue|35
+44G-698.56|Le Minh Linh|Nha Trang|Buon Ma Thuot|37
+38S-718.73|Do Kim Oanh|Nha Trang|Bien Hoa|34
+20L-461.44|Vu Kim Giang|Ha Noi|My Tho|26
+70D-189.93|Duong Huu Mai|Buon Ma Thuot|Da Nang|33
+38G-606.35|Huynh Huu Phuc|Vung Tau|Buon Ma Thuot|16
+52U-963.71|Do Minh Em|Quy Nhon|My Tho|33
+08Z-417.11|Duong Duc Dung|Ha Noi|Bien Hoa|30
+57V-560.32|Bui Duc Mai|Vinh|Nha Trang|27
+86C-312.44|Ly Quang Tam|Quy Nhon|Vinh|45
+44Q-458.70|Dang Thi Linh|Vinh|Sai Gon|20
+31A-447.36|Bui Thanh Khanh|Da Lat|Bien Hoa|49
+97I-068.08|Ly Cong Cuong|Nha Trang|Quy Nhon|48
+55M-170.52|Dang Thi Nam|Buon Ma Thuot|Da Nang|22
+32O-618.16|Le Thi Son|Quy Nhon|Da Lat|49
+73K-020.45|Duong Minh Hoa|Da Lat|Vung Tau|23
+82V-643.71|Pham Van Viet|Nha Trang|My Tho|16
+66W-914.20|Hoang Duc Dung|Da Nang|Quy Nhon|38
+44M-423.34|Duong Quang Nam|Vung Tau|Bien Hoa|17
+94L-249.44|Vu Huu Cuong|Ha Noi|Vung Tau|39
+75X-915.16|Huynh Thanh Giang|Buon Ma Thuot|Vung Tau|49
+30U-781.80|Ly Van Linh|Vung Tau|Nha Trang|38
+87W-314.35|Phan Thi Viet|Hai Phong|Vung Tau|48
+02Q-524.44|Phan Huu Nam|My Tho|Hue|49
+43L-686.66|Do Ngoc Uyen|Nha Trang|Can Tho|37
+25K-345.69|Ngo Van Oanh|Can Tho|Vinh|24
+60N-039.19|Phan Ngoc Cuong|Sai Gon|Ha Noi|22
+62F-772.61|Phan Minh Phong|My Tho|Sai Gon|48
+80Z-674.85|Huynh Thi Phong|Da Nang|Hai Phong|49
+59I-664.12|Vo Thi Uyen|Vinh|Quy Nhon|40
+90F-613.21|Tran Duc Cuong|Hue|My Tho|42
+65V-259.25|Hoang Thi Mai|Da Lat|My Tho|23
+92Q-577.68|Nguyen Quang Khanh|Sai Gon|Can Tho|21
+91U-980.40|Bui Thi Binh|Ha Noi|Buon Ma Thuot|25
+58N-062.41|Pham Duc Tam|Hue|Buon Ma Thuot|27
+78A-403.21|Pham Kim Uyen|My Tho|Da Nang|24
+56J-760.04|Le Huu Iem|Nha Trang|Sai Gon|37
+05A-916.95|Dang Ngoc Khanh|Hai Phong|Buon Ma Thuot|30
+17T-667.78|Bui Minh An|Vung Tau|Bien Hoa|26
+00I-433.26|Tran Minh Phong|Nha Trang|Hai Phong|46
+29Q-894.68|Bui Ngoc Giang|Quy Nhon|Sai Gon|16
+14V-636.91|Ly Minh Quyen|Da Lat|Vung Tau|22
+94M-452.91|Do Duc Binh|Vinh|My Tho|17
+30A-994.93|Vo Thi Quyen|Ha Noi|Buon Ma Thuot|40
+60P-844.22|Ly Kim Dung|Can Tho|My Tho|31
+36V-662.96|Ngo Minh Iem|Bien Hoa|My Tho|33
+57T-130.75|Pham Duc Phuc|Buon Ma Thuot|Da Lat|26
+80E-882.43|Vo Quang Binh|Da Nang|My Tho|38
+55Q-014.83|Nguyen Thi Giang|Buon Ma Thuot|Vung Tau|28
+90S-040.23|Ngo Cong Tam|Hue|Vung Tau|31
+47Q-371.28|Duong Huu Viet|Bien Hoa|Da Lat|29
+75Z-342.06|Nguyen Thanh Iem|Sai Gon|Da Lat|23
+12R-770.03|Nguyen Thi Uyen|Hai Phong|Quy Nhon|21
+11K-648.47|Duong Huu Hoa|My Tho|Da Lat|17
+68Q-951.26|Dang Minh Em|Da Lat|My Tho|23
+20H-761.51|Do Van Phong|Quy Nhon|Da Lat|30
+21I-876.70|Hoang Kim Tam|Hai Phong|Vung Tau|43
+22U-612.00|Phan Kim Quyen|Da Lat|Vinh|27
+75W-397.13|Nguyen Kim Son|Quy Nhon|Buon Ma Thuot|43
+88O-696.24|Pham Ngoc Phong|My Tho|Da Lat|38
+16X-555.63|Tran Quang Hoa|Hai Phong|Hue|29
+83D-778.88|Bui Minh Phuc|My Tho|Ha Noi|34
+70E-468.35|Duong Quang Phuc|Sai Gon|Ha Noi|24
+50U-599.31|Bui Thi Giang|Buon Ma Thuot|My Tho|49
+28Y-114.96|Duong Kim Phong|Buon Ma Thuot|Bien Hoa|39
+53R-409.81|Vo Quang Giang|Hue|Buon Ma Thuot|20
+75W-994.27|Bui Thi Viet|Da Nang|Vinh|36
+16H-961.04|Ly Duc Son|Da Nang|Sai Gon|37
+95E-664.03|Dang Ngoc Iem|Vinh|Nha Trang|50
+94L-062.45|Duong Huu Viet|Nha Trang|My Tho|42
+83F-408.67|Hoang Huu Oanh|Vinh|Ha Noi|47
+62H-700.15|Le Duc Em|Hai Phong|Vung Tau|20
+06B-008.48|Ly Thanh Cuong|Vinh|Hai Phong|20
+38L-104.00|Dang Thi Viet|Can Tho|Ha Noi|47
+27D-684.88|Vu Cong Quyen|Vinh|Quy Nhon|40
+63E-795.52|Ngo Quang Oanh|Can Tho|Hai Phong|40
+08F-177.21|Dang Van Son|Sai Gon|Quy Nhon|21
+04S-780.38|Vu Thi Dung|Ha Noi|Buon Ma Thuot|40
+18G-222.61|Bui Quang Hoa|Vinh|My Tho|49
